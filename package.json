@@ -1,0 +1,24 @@
+{
+  "name": "spa-excel",
+  "version": "1.0.0",
+  "description": "SPA Pure JS",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yurish4e/spa-excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "SPA"
+  ],
+  "author": "Yura <yurish4e@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yurish4e/spa-excel/issues"
+  },
+  "homepage": "https://github.com/yurish4e/spa-excel#readme"
+}
